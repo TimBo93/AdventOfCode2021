@@ -1,5 +1,5 @@
 ### about
-This repo contains solutions for *Advent Of Code 2021* (adventofcode.com/2021).
+This repo contains solutions for [Advent Of Code 2021](adventofcode.com/2021).
 To add spice to it, I use different "programming languages", some I've never used before.
 
 ### contribute
