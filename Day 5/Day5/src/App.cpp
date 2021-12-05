@@ -19,7 +19,7 @@ struct inputDataLine {
     coordinate from, to;
 };
 
-GLfloat* convertToLines(std::vector<inputDataLine> coordinates) {
+GLfloat* convertToLines(const std::vector<inputDataLine>& coordinates) {
     int size = coordinates.size();
     GLfloat* convertedCoordinates = new GLfloat[size * 2 * 3];
 
@@ -40,7 +40,7 @@ GLfloat* convertToLines(std::vector<inputDataLine> coordinates) {
 }
 
 
-GLfloat* convertToPositions(std::vector<inputDataLine> coordinates) {
+GLfloat* convertToPositions(const std::vector<inputDataLine>& coordinates) {
     int size = coordinates.size();
     GLfloat* convertedCoordinates = new GLfloat[size * 3];
 
@@ -240,7 +240,7 @@ int main(void)
     //
     /// -----------------------------------------
     
-    int count = 102;
+    int count = vertexCount;
 
     /* Loop until the user closes the window */
     while (!glfwWindowShouldClose(window))
