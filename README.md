@@ -16,3 +16,10 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 5   | GLSL (OpenGL / C++)        | GLSL (OpenGL / C++)        |
 | 6   | Ada        | Ada        |
 | 7   | Matlab         | Matlab        |
+| 8   | C# .NET 6 *      | C# .NET 6 *      |
+
+#### notes
+\* Day 8 : Due to time constraints, I decided to use my home zone programming language.
+Possibly I will re-implement this in another language.
+Due to time constraints, I decided to use my home zone programming language.
+Anyway: a code can't get any dirtier than this. 🤣
