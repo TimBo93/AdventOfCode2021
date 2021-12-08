@@ -7,6 +7,8 @@ maximum = max(entryPositions);
 range = minimum : maximum;
 cost = zeros(1,columns(range));
 
+c_i = 1
+
 for i = range
     # printf("Calculating the overall distance to %d \n", i);
     
