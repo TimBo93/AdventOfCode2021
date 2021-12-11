@@ -19,6 +19,7 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 8   | C# .NET 6 *      | C# .NET 6 *      |
 | 9   | Java      | Java      |
 | 10   | Fortran      | Fortran      |
+| 11   | Blitz3D      | Blitz3D      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
