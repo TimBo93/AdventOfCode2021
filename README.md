@@ -26,6 +26,7 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 15   | (Vanilla) JavaScript       | (Vanilla) JavaScript      |
 | 16   | Lua       | Lua      |
 | 17   | Delphi       | Delphi      |
+| 18   | Scala       | Scala      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
