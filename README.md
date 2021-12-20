@@ -24,6 +24,7 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 13   | F#      | F#      |
 | 14   | Python      | Python      |
 | 15   | (Vanilla) JavaScript       | (Vanilla) JavaScript      |
+| 16   | Lua       | Lua      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
