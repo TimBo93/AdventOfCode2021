@@ -27,6 +27,7 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 16   | Lua       | Lua      |
 | 17   | Delphi       | Delphi      |
 | 18   | Scala       | Scala      |
+| 19   | Visual Basic .NET       | Visual Basic .NET      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
