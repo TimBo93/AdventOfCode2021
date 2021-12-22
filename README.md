@@ -29,8 +29,13 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 18   | Scala       | Scala      |
 | 19   | Visual Basic .NET       | Visual Basic .NET      |
 | 20   | CUDA (C)       | CUDA (C)      |
+| 21   | Haskell       | Haskell *      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
 Possibly I will re-implement this in another language.
 Anyway: a code can't get any dirtier than this. 🤣
+
+\* Day 21: Part 2 produces the right solution. Unfortunately it is reeeaaaly slow and hungry for RAM.
+If you are not holding a power computer, you probably do not want to run it till a score of 21.
+There may (?) be an easy solution with some memoization (aka dynamic programming) but my Haskell skills are not sufficient enough to get this done. To overcome my weakness, I transpiled the algorithm into .NET, utilized a Dictionary and was happy.
