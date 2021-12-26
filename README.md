@@ -32,6 +32,7 @@ If you want to challenge me, write me a programming language and let's go. How a
 | 21   | Haskell       | Haskell *      |
 | 22   | Groovy       | Groovy      |
 | 23   | (Vanilla) TypeScript       | (Vanilla) TypeScript      |
+| 24   | Dart       | Dart      |
 
 #### notes
 \* Day 8 : Due to time constraints, I decided to use my home zone programming language.
